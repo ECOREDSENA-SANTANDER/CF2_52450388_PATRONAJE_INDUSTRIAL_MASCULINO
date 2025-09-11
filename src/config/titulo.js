@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Diseño y elaboración de patrones básicos de ropa masculina.'
