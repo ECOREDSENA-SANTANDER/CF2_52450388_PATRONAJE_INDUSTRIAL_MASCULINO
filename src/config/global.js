@@ -154,8 +154,8 @@ export default {
       referencia:
         'Carrera de Diseño y Gestión de Moda. (2015). Técnicas de patronaje. Tomo II: Hombre. Universidad Peruana de Ciencias Aplicadas (UPC). ProQuest Ebook Central.',
       tipo: 'Documento',
-      link:
-        'https://sena4.sharepoint.com/:f:/r/sites/VirtualizacionRED/Documentos%20compartidos/2025/LP-Santander/COMPLEMENTARIAS/52450388.%20Patronaje%20industrial%20masculino/1.%20FinalxVirtualizar/Contenidos/CF02/Formatos%20DI/Anexos?csf=1&web=1&e=7xidZ7',
+      descarga:
+        'downloads/MC_AA2_Los_inicios_proceso_historico_evolucion_vestimenta_hombres.pdf',
     },
   ],
   glosario: [
@@ -247,6 +247,14 @@ export default {
         'QRCode-Generator. (2019). Cree su código QR gratis. Recuperado de',
       link: 'https://es.qr-code-generator.com/',
     },
+    {
+      referencia:
+        'Camps, J. (1995). Manual Técnico de Patronaje Industrial Ropa Masculina. Medellín, Colombia: Comité Técnico de Costura 3.',
+    },
+    {
+      referencia:
+        'Chunman, D. (2011). Patronaje. Barcelona, España: Ed Blume. ',
+    },
   ],
   creditos: [
     {
@@ -268,9 +276,15 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: ' ',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Nohora Amparo',
+          cargo: 'Experta temática',
+          centro:
+            'Centro de manufactura en textil y cuero  - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -278,18 +292,18 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Diseñador de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Lizeth Karina Mancheeego Suarez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

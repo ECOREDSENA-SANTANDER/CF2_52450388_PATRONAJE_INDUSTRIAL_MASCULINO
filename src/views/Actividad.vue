@@ -17,13 +17,13 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Nombre del CF',
+      tema: 'Diseño y elaboración de patrones básicos de ropa masculina',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales del componente diseño y elaboración de patrones básicos de ropa masculina.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
@@ -46,7 +46,7 @@ export default {
           mensaje_correcto:
             'Ha captado con claridad los conceptos del componente Diseño y elaboración de patrones básicos de ropa masculina.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
@@ -69,7 +69,7 @@ export default {
           mensaje_correcto:
             'Ha captado con claridad los conceptos del componente Diseño y elaboración de patrones básicos de ropa masculina.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 3,
@@ -92,7 +92,7 @@ export default {
           mensaje_correcto:
             'Ha captado con claridad los conceptos del componente Diseño y elaboración de patrones básicos de ropa masculina.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 4,
@@ -115,7 +115,7 @@ export default {
           mensaje_correcto:
             'Ha captado con claridad los conceptos del componente Diseño y elaboración de patrones básicos de ropa masculina.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 5,
@@ -138,7 +138,7 @@ export default {
           mensaje_correcto:
             'Ha captado con claridad los conceptos del componente Diseño y elaboración de patrones básicos de ropa masculina.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 6,
@@ -161,7 +161,7 @@ export default {
           mensaje_correcto:
             'Ha captado con claridad los conceptos del componente Diseño y elaboración de patrones básicos de ropa masculina.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
@@ -184,7 +184,7 @@ export default {
           mensaje_correcto:
             'Ha captado con claridad los conceptos del componente Diseño y elaboración de patrones básicos de ropa masculina.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 8,
@@ -207,7 +207,7 @@ export default {
           mensaje_correcto:
             'Ha captado con claridad los conceptos del componente Diseño y elaboración de patrones básicos de ropa masculina.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 9,
@@ -230,7 +230,7 @@ export default {
           mensaje_correcto:
             'Ha captado con claridad los conceptos del componente Diseño y elaboración de patrones básicos de ropa masculina.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 10,
@@ -253,7 +253,7 @@ export default {
           mensaje_correcto:
             'Ha captado con claridad los conceptos del componente Diseño y elaboración de patrones básicos de ropa masculina.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
       ],
       mensaje_final_aprobado: '¡Excelente! Ha superado la actividad.',

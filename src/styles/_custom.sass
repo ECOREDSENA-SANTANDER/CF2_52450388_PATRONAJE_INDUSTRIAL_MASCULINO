@@ -3,12 +3,12 @@
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 8%
-    right: 50%
+    right: 30%
   &-2
     animation: float1 2.0s ease-in-out infinite alternate
     position: absolute
     top: 68%
-    right: 75%
+    right: 85%
   &-3
     animation: float1 2.5s ease-in-out infinite alternate
     position: absolute
@@ -25,12 +25,14 @@
 .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
   flex: 0 0 auto !important
   width: 48.33333333% !important
+  padding
 .banner-principal__img 
   padding-bottom: 0 !important;
 .banner-principal__row .banner-principal__img 
-    width: 33%;
+    width: 35%;
     
-
+.boton *, .boton--sm * 
+  color: #fff !important
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
   color: $color-sistema-texto !important
 
@@ -43,8 +45,11 @@
   color: $color-sistema-texto !important
 figcaption 
     font-weight: normal !important
-    background-color: #D2C3DD !important
-    
+    background-color: #F6F6F6 !important
+.container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.mb-cus-intro
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+
 .banner-principal__info 
     background-color: #e3dcd9;
     border-radius: 20px;
@@ -60,9 +65,17 @@ figcaption
   background-repeat: no-repeat
   background-position: bottom
   margin-inline: -3.3rem
+.bg-fondo
+  &-1
+    background-color:  #F3F0EF
+    background-position: center
+    background-size: cover
+    background-repeat: no-repeat
 .bg-color
   &-1
-    color: $color-primario !important
+    background-color: #E3E4ED !important
+  &-2
+    background-color: #E3DCD9 !important
 
 .br
   &-1
@@ -91,13 +104,16 @@ figcaption
 @media screen and (max-width: $bp-max-md)
   .mb-cus
     margin-bottom: 2em  !important  
-  
+  .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
+    width: 90% !important;
+    margin: 2rem !important
   
   
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
   .mb-cus
     margin-bottom: 2em  !important  
+  
 
   
 
@@ -105,3 +121,6 @@ figcaption
 @media screen and (max-width: $bp-min-sm)
   .mb-cus
     margin-bottom: 2em  !important
+  .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
+        width: 85% !important;
+        margin: 1rem !important;
