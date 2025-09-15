@@ -36,7 +36,8 @@
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
   color: $color-sistema-texto !important
 
-
+.text-color-sistema
+  color: $color-sistema-texto !important
 .banner-interno__titulo h1, .banner-interno__titulo h2, 
 .banner-interno__titulo h3, .banner-interno__titulo h4, 
 .banner-interno__titulo h5, .banner-interno__titulo h6
@@ -57,9 +58,13 @@ figcaption, caption
     margin-bottom: 1rem;
 .tabla-a.table-wcus table
     min-width: 480px;
+.tabla-a.table-wcus-2 table
+    min-width: 700px;
 .tabla-a thead 
     background-color: #E3DCD9;
 .tabla-a.table-wcus table th, .tabla-a.table-wcus table td 
+    padding: 10px 20px;
+.tabla-a.table-wcus-2 table th, .tabla-a.table-wcus-2 table td 
     padding: 10px 20px;
 .pasos-b__header__btn--left, .pasos-b__header__btn--right,
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
@@ -89,6 +94,8 @@ figcaption, caption
 /**************************************************************/
 .p-full-width
   padding: 3rem 2.5rem!important;
+  &-1
+    padding: 2rem 2.5rem!important;
 .bg-full-width
   background-size: cover
   background-repeat: no-repeat
@@ -129,10 +136,18 @@ figcaption, caption
     background-color: #C7B8B4 !important
   &-9
     background-color: #C6CADB !important
+  &-10
+    background-color: #E5EEF2 !important
+  &-11
+    background-color: #F1EEED !important
 
 .br
   &-1
     border-radius: 10px !important
+  &-2
+    border-radius: 20px !important
+    border: 1px dashed #707070
+
 
 .ml-cus
   &-1
@@ -211,11 +226,19 @@ figcaption, caption
       height: 420px !important
     &-3
       height: auto !important
+    &-4
+      height: 120px !important
+    &-5
+      height: 100px !important
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
   .mb-cus
     margin-bottom: 2em  !important  
-  
+  .hcard
+    &-4
+      height: 120px !important
+    &-5
+      height: 100px !important
 
   
 
@@ -244,5 +267,8 @@ figcaption, caption
   .tarjeta--container > .tarjeta:last-child
     border-radius:  0px !important
   .hcard
-    &-1, &-2
+    &-1, &-2, &-4
       height: auto !important
+  .p-full-width
+    &-1
+      padding: 2rem 3.5rem!important;
