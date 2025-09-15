@@ -43,7 +43,7 @@
   color: $color-sistema-texto !important
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: $color-sistema-texto !important
-figcaption 
+figcaption, caption
     font-weight: normal !important
     background-color: #F6F6F6 !important
 .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.mb-cus-intro
@@ -55,6 +55,35 @@ figcaption
     border-radius: 20px;
     margin-top: 1rem;
     margin-bottom: 1rem;
+.tabla-a.table-wcus table
+    min-width: 480px;
+.tabla-a thead 
+    background-color: #E3DCD9;
+.tabla-a.table-wcus table th, .tabla-a.table-wcus table td 
+    padding: 10px 20px;
+.pasos-b__header__btn--left, .pasos-b__header__btn--right,
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+    border: 0 !important;
+    background-color: #734F43;
+    color: #fff !important;
+.pasos-b__header__item--before .pasos-b__header__item__dot 
+    border-color: $color-acento-contenido;
+    background-color: $color-acento-contenido
+.pasos-b__header__item--before .pasos-b__header__item__line-container:after,
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, 
+.pasos-b__header__item--before .pasos-b__header__item__line-container:after,
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before
+    background-color: $color-acento-contenido;
+.slyder-a__bullets__item
+    border: 0 !important;
+    background-color: #D2E2E9
+.slyder-a__bullets__item--active
+    border: 0 !important;
+    background-color: #658B99
+.lista-ul--color.color-primario li > i:first-of-type
+    color: $color-primario !important;
+.lista-ul--color.color-primario li
+    margin-bottom: 1.5rem
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -71,11 +100,35 @@ figcaption
     background-position: center
     background-size: cover
     background-repeat: no-repeat
+  &-2
+    background-image: url("../assets/curso/temas/bg/1.svg") !important
+    background-position: center
+    background-size: cover
+    background-repeat: no-repeat
+  &-3
+    background-image: url("../assets/curso/temas/bg/3.svg") !important
+    background-position: center
+    background-size: cover
+    background-repeat: no-repeat
 .bg-color
   &-1
     background-color: #E3E4ED !important
   &-2
     background-color: #E3DCD9 !important
+  &-3
+    background-color: #A6826D !important
+  &-4
+    background-color: #453028 !important
+  &-5
+    background-color: #fff !important
+  &-6
+    background-color: #4C6873 !important
+  &-7
+    background-color: #CBDEE5 !important
+  &-8
+    background-color: #C7B8B4 !important
+  &-9
+    background-color: #C6CADB !important
 
 .br
   &-1
@@ -84,12 +137,46 @@ figcaption
 .ml-cus
   &-1
     margin-left: 30px !important
+  &-2
+    margin-top: 2rem !important
       
 .hcard
   &-1
-    height: 750px !important
+    height: 250px !important
+  &-2
+    height: 390px !important
+.pcus
+  &-1
+    padding: 3rem !important
+  &-2
+    padding: 3rem !important;
 
-      
+.titulo-icono
+  border-top: 1px dashed $color-secundario
+  border-bottom: 1px dashed $color-secundario
+  border-right: 1px dashed $color-secundario
+  
+  width: fit-content
+  position: relative;
+  left: 40px;
+  &-text
+    margin-right: 10px
+    margin-left: 30px;
+  &-img
+    padding: 0px
+    position: absolute
+    top: -5px
+    left: -20px
+
+
+    &:before
+      position: relative
+      border-bottom-right-radius: 40px
+      @media screen and (max-width: 767px)
+        height: 280%
+    img
+      position: relative
+      max-width: 50px      
 
 /**************************************************************/
 /*Media Queries*/  
@@ -108,7 +195,22 @@ figcaption
     width: 90% !important;
     margin: 2rem !important
   
-  
+  .bloque-texto-g 
+    padding-top: 50px !important;
+  .bloque-texto-g__texto
+    width: 100%;
+  .tarjeta--container > .tarjeta:first-child,
+  .tarjeta--container > .tarjeta:last-child
+    border-radius:  0px !important
+  .tabla-a.table-wcus table
+    min-width: 100% !important;
+  .hcard
+    &-1
+      height: 320px !important
+    &-2
+      height: 420px !important
+    &-3
+      height: auto !important
 //// TABLET MINI 768--------------------------------------
 @media screen and (max-width: $bp-min-md)
   .mb-cus
@@ -124,3 +226,23 @@ figcaption
   .col-lg-7.col-xxl-5.ps-4.ps-sm-5.py-4.py-sm-5.banner-principal__info
         width: 85% !important;
         margin: 1rem !important;
+  .bloque-texto-g 
+    padding-top: 20px !important;
+  .pcus
+    &-1, &-2
+      padding: 1rem !important;
+  .titulo-icono
+    left: 10px;
+    border-left: 1px dashed $color-secundario
+    width: 100%;
+    &-text
+      margin-left: 1px;
+      padding-left: 5px;
+    &-img
+      display: none !important
+  .tarjeta--container > .tarjeta:first-child,
+  .tarjeta--container > .tarjeta:last-child
+    border-radius:  0px !important
+  .hcard
+    &-1, &-2
+      height: auto !important
