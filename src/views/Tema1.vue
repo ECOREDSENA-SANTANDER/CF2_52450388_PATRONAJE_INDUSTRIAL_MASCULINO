@@ -25,7 +25,7 @@
                 h4.text-white  Los inicios, el proceso histórico y la evolución de la vestimenta para hombres
                 p.mb-0.text-white Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento.
               .col-sm-auto.col-lg-2
-                a.boton.bg-color-4.texto-blanco(:href="obtenerLink('/downloads/MF_AA2_Trazo_de_patrones_basicos.pdf')" target="_blank")  
+                a.boton.bg-color-4.texto-blanco(:href="obtenerLink('/downloads/MC_AA2_Los_inicios_proceso_historico_evolucion_vestimenta_hombres.pdf')" target="_blank")  
                   span Descargar
                   i.fas.fa-file-arrow-down
 
@@ -38,7 +38,7 @@
           p.mb-0 #[b Figura 1.] Básico superior masculino
       figure.mb-5(data-aos='fade-right')
           img(src='@/assets/curso/temas/t1/3.svg', alt='Ilustración del patrón básico superior masculino, vista frontal y posterior.')
-          figcaption.mb-0 Fuente: SENA, (2019).  
+          figcaption.mb-0 Fuente: SENA, (2019)  
 
       p.mb-5(data-aos='fade-right') En la siguiente tabla se encuentran las medidas que se aplicarán en la elaboración del patrón superior masculino:
 
@@ -92,7 +92,7 @@
             PasosB.color-acento-contenido
               .row.justify-content-center.mb-0(titulo='Paso 1')
                 .col-sm-12.col-lg-7.mb-cus
-                  h4 Elaboración de patrón base superior, primer paso
+                  //h4 Elaboración de patrón base superior, primer paso
                   p.mb-0 Trazar un rectángulo que mida en horizontal la mitad del contorno de pecho, más 5 cm para desahogo y en vertical la medida del largo de talle.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
@@ -103,7 +103,7 @@
 
               .row.justify-content-center.mb-0(titulo='Paso 2')
                 .col-sm-12.col-lg-7.mb-cus
-                  h4 Elaboración de patrón base superior, segundo paso
+                  //h4 Elaboración de patrón base superior, segundo paso
                   p.mb-0 Trazar una línea paralela horizontal que mida desde la línea superior el contorno de pecho dividido en seis partes más 6 cm. Esta es la línea de sisa.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
@@ -114,7 +114,7 @@
 
               .row.justify-content-center.mb-0(titulo='Paso 3')
                 .col-sm-12.col-lg-7.mb-cus
-                  h4 Elaboración de patrón base superior, tercer paso
+                  //h4 Elaboración de patrón base superior, tercer paso
                   p.mb-0 La línea de costado se traza vertical en la mitad de la parte inferior. Marcar el centro frente al costado izquierdo y centro atrás al costado derecho.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
@@ -125,7 +125,7 @@
 
               .row.justify-content-center.mb-0(titulo='Paso 4')
                 .col-sm-12.col-lg-7.mb-cus
-                  h4 Fórmula contorno de cuello
+                  //h4 Fórmula contorno de cuello
                   p.mb-0 En centro atrás sobre la línea superior de izquierda a derecha se debe tomar la medida de la abertura del cuello. Para determinar esta medida, se aplica la siguiente fórmula:
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
@@ -136,7 +136,7 @@
 
               .row.justify-content-center.mb-0(titulo='Paso 5')
                 .col-sm-12.col-lg-7.mb-cus
-                  h4 Elaboración de patrón base superior
+                  //h4 Elaboración de patrón base superior
                   p.mb-0 Escuadrar hacia arriba la tercera parte de la medida A = 1.8 cm, trazar curva del cuello posterior. En el centro frente sobre la línea superior de derecha a izquierda, se toma la medida del cuello delantero, para determinar la medida del cuello se aplica la siguiente fórmula: (A + 0.5 cm) = 6.1 cm, desde el vértice bajar la medida de A y trazar la curva de cuello delantero.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
@@ -147,40 +147,40 @@
 
               .row.justify-content-center.mb-0(titulo='Paso 6')
                 .col-sm-12.col-lg-7.mb-cus
-                  h4 Molde básico delantero y espalda con medida de ancho de pecho
+                  //h4 Molde básico delantero y espalda con medida de ancho de pecho
                   p.mb-0 Desde la línea de centro atrás, de derecha a izquierda trazar una línea paralela vertical que tenga la mitad de la medida del ancho de espalda, más 1.5 cm de desahogo. Desde la línea de centro frente, de izquierda a derecha trazar una línea paralela vertical que tenga la mitad de la medida de ancho de pecho, más 1.5 cm de desahogo.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 7.] Molde básico delantero y espalda con medida de ancho de pecho
                   figure.mb-0
-                      img(src='@/assets/curso/temas/t1/10.svg', alt='Esquema del patrón básico con división lateral del costado, escote delantero y escote posterior.')
+                      img(src='@/assets/curso/temas/t1/10.svg', alt='Molde delantero y espalda con ancho de pecho.')
                       figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-center.mb-0(titulo='Paso 7')
                 .col-sm-12.col-lg-7.mb-cus
-                  h4 Elaboración molde básico delantero y espalda
+                  //h4 Elaboración molde básico delantero y espalda
                   p.mb-0 Para los hombros se debe trazar una línea diagonal en dirección hacia el costado, que tenga de caída 4 cm y de longitud la medida del largo de hombro, como se ve a continuación:
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 8.] Elaboración molde básico delantero y espalda
                   figure.mb-0
-                      img(src='@/assets/curso/temas/t1/11.svg', alt='Trazado del largo de hombro en escote delantero y posterior.')
+                      img(src='@/assets/curso/temas/t1/11.svg', alt='Molde básico del cuerpo delantero y espalda con medidas de hombro y pecho. ')
                       figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-center.mb-0(titulo='Paso 8')
                 .col-sm-12.col-lg-7.mb-cus
-                  h4 Molde básico con transformación para sisa y costado
+                  //h4 Molde básico con transformación para sisa y costado
                   p.mb-0 Trazar las curvas de las sisas del delantero y de la espalda, partiendo de los puntos extremos del hombro, tocando las líneas de ancho de espalda y pecho y terminando en el costado. En el centro frente se debe dar una caída de 2 cm en el ruedo para recuperación de talle, que se escuadra hasta la mitad de la cintura del delantero y se termina en diagonal hasta el costado.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 9.] Molde básico con transformación para sisa y costado
                   figure.mb-0
-                      img(src='@/assets/curso/temas/t1/12.svg', alt='Trazado final del patrón básico superior masculino con forma de sisa, escotes, hombros y caída lateral de 2 cm en el delantero.')
+                      img(src='@/assets/curso/temas/t1/12.svg', alt='Molde delantero y espalda con ajuste en sisa y costado.')
                       figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-center.mb-0(titulo='Paso 9')
                 .col-sm-12.col-lg-7.mb-cus
-                  h4 Despiece e industrialización
+                  //h4 Despiece e industrialización
                   p.mb-0 Se deben despiezar los patrones del delantero y de la espalda por aparte, el hilo de tela de cada uno va paralelo al centro frente y centro atrás respectivamente y se marcan con nombre, talla y cantidad las veces que se corta el patrón en un modelo.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
@@ -209,14 +209,14 @@
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Camisa básica masculina
 
-      p.mb-5(data-aos='fade-right') La camisa masculina es una prenda formal básica e imprescindible en diversos contextos sociales: desde el entorno de oficina hasta espacios formales, casuales e incluso dentro del estilo Jeans Wear. Esta prenda aporta sofisticación y elegancia a quien la lleva, por lo que se considera fundamental en el guardarropa de todo hombre.
+      p.mb-5(data-aos='fade-right') La camisa masculina es una prenda formal básica e imprescindible en diversos contextos sociales: desde el entorno de oficina hasta espacios formales, casuales e incluso dentro del estilo #[i Jeans Wear]. Esta prenda aporta sofisticación y elegancia a quien la lleva, por lo que se considera fundamental en el guardarropa de todo hombre.
       .titulo-sexto.color-primario(data-aos='fade-right')
           p.mb-0 #[b Figura 11.] Camisa masculina
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-10
           figure.mb-0
               img(src='@/assets/curso/temas/t1/15.svg', alt='Vista frontal y posterior de una camisa masculina con líneas marcadas de centro frente (CF) y centro espalda (CB).')
-
+              figcaption.mb-0 Fuente: SENA, (2019)
       p.mb-3(data-aos='fade-right') Para la elaboración de los patrones de la camisa, es importante contar con los elementos necesarios para el trazo, tales como: reglas de patronaje, papel para trazo, lápiz, borrador, tijeras y cinta métrica. Además, se debe tener listo el patrón básico superior masculino, que servirá como base para el desarrollo del molde.
       p.mb-5(data-aos='fade-right') Los pasos para trazar el patrón del cuerpo de la camisa son los siguientes:        
       .bg-full-width.bg-color-6.mb-5(data-aos='fade-right')
@@ -230,8 +230,8 @@
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 12.] Desarrollo patrón de camisa
                   figure.mb-0
-                      img(src='@/assets/curso/temas/t1/16.svg', alt='')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      img(src='@/assets/curso/temas/t1/16.svg', alt='Moldes de delantero y espalda con separación de 3 cm en la línea de sisa para desahogo.')
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-center
                 .col-sm-12.col-lg-6.pcus-1
@@ -241,7 +241,7 @@
                       p.mb-0 #[b Figura 13.]  Trazado del largo total de la camisa masculina
                   figure.mb-0
                       img(src='@/assets/curso/temas/t1/17.svg', alt='Trazado del largo de camisa masculina desde la cintura, con líneas guía hacia centro frente, centro atrás y ruedo.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-center
                 .col-sm-12.col-lg-6.pcus-1
@@ -252,7 +252,7 @@
                       p.mb-0 #[b Figura 14.] Ajustes de sisa y hombro en camisa masculina
                   figure.mb-0
                       img(src='@/assets/curso/temas/t1/18.svg', alt='Ajustes de sisa y hombro en los moldes de delantero y espalda para camisa masculina.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
 
               .row.justify-content-start.mb-0.align-items-center
@@ -263,7 +263,7 @@
                       p.mb-0 #[b Figura 15.] Trazado de almilla en camisa masculina
                   figure.mb-0
                       img(src='@/assets/curso/temas/t1/19.svg', alt='Ilustración del trazo de almilla sobre moldes de delantero y espalda, con ajustes en hombros, escote y sisa.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-center
                 .col-sm-12.col-lg-6.pcus-1
@@ -273,7 +273,7 @@
                       p.mb-0 #[b Figura 16.] Ampliación para cruce en camisa masculina
                   figure.mb-0
                       img(src='@/assets/curso/temas/t1/20.svg', alt='Trazado de la línea de almilla y aumento en el centro frente para formar el cruce de la camisa.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-center
                 .col-sm-12.col-lg-6.pcus-1
@@ -283,7 +283,7 @@
                       p.mb-0 #[b Figura 17.] Trazado del ruedo tipo cola de pato
                   figure.mb-0
                       img(src='@/assets/curso/temas/t1/21.svg', alt='Curva del ruedo posterior con forma tipo cola de pato unida desde ambos costados.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-center
                 .col-sm-12.col-lg-6.pcus-1
@@ -293,7 +293,7 @@
                       p.mb-0 #[b Figura 18.] Ampliación de pechera y ajustes finales
                   figure.mb-0
                       img(src='@/assets/curso/temas/t1/22.svg', alt='Molde con ampliación para pechera, doblez y ajustes en ruedo y almilla.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
 
 
@@ -307,7 +307,7 @@
         .bloque-texto-g__img.d-none.d-lg-block(
           :style="{'background-image': `url(${require('@/assets/curso/temas/t1/23.png')})`}"
         )
-        .bloque-texto-g__texto.p-4.d-felx.flex-column
+        .bloque-texto-g__texto.p-4.d-flex.flex-column
           p.mb-3 El proceso de crear los diferentes patrones que conforman una prenda se denomina despiece, y consiste en definir cada parte con especificaciones claras para su posterior confección. Por ejemplo, para elaborar un pantalón se requiere un patrón delantero y un patrón posterior.
           p.mb-3 Las costuras son las áreas que se agregan al patrón terminado para permitir la unión entre piezas, siendo necesarias para el ensamble de toda la prenda.
           p.mb-0 El patrón industrial es la base para el corte y la confección. Este define la forma de cada componente de la prenda e indica las costuras, dobladillos y demás elementos requeridos según sus especificaciones.
@@ -337,8 +337,8 @@
       .titulo-sexto.color-primario(data-aos='fade-right')
           p.mb-0 #[b Figura 19.] Piezas base camisa masculina 
       figure.mb-5(data-aos='fade-right')
-          img(src='@/assets/curso/temas/t1/27.svg', alt='')
-          figcaption.mb-0 Fuente: SENA, (2019).
+          img(src='@/assets/curso/temas/t1/27.svg', alt='Vista de los moldes del delantero, espalda y almilla para camisa masculina.')
+          figcaption.mb-0 Fuente: SENA, (2019)
 
       .row.align-items-center.mb-5.titulo-icono
         .col-auto.titulo-icono-img
@@ -447,7 +447,7 @@
         .col-sm-12.col-lg-6
           figure.mb-0
             img(src='@/assets/curso/temas/t1/35.svg', alt='Ilustración del patrón de la manga, puño y portañuela para camisa talla M/36, con medidas y cantidad de cortes especificados.')
-            figcaption.mb-0 Fuente: SENA, (2019).
+            figcaption.mb-0 Fuente: SENA, (2019)
         .col-sm-12.col-lg-6.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/34.png', alt='')
       
@@ -484,7 +484,7 @@
               p.mb-0 #[b Figura 27.] Desarrollo de patrón de cuello camisero 
           figure.mb-0
               img.mb-2(src='@/assets/curso/temas/t1/36.svg', alt='Texto alternativo: Diagrama técnico del trazado del cuello camisero con pie de cuello, mostrando medidas, puntos guía y líneas de escuadra.')
-              figcaption.mb-0 Fuente: SENA, (2014).
+              figcaption.mb-0 Fuente: SENA, (2019).
 
 
       .row.align-items-center.mb-5.titulo-icono(data-aos='fade-right')
@@ -502,7 +502,7 @@
               .col-4
                 figure
                   img(src='@/assets/curso/temas/t1/37.svg')
-            p.mb-0.text-center El cuello y el pie de cuello se trazan con doblez de tela sobre la línea vertical, correspondiente al vértice del ángulo.El despiece del pie de cuello se construye a partir del vértice del ángulo, pasando por el punto A, el cruce del pie de cuello, la curva, el punto G y el punto C, cerrando en el doblez de la tela. Se deben marcar piquetes en el punto A y dejar costura de 1 cm en todo el contorno.
+            p.mb-0.text-center El cuello y el pie de cuello se trazan con doblez de tela sobre la línea vertical, correspondiente al vértice del ángulo.
 
         .col-sm-6.col-lg-4.mb-4.mb-lg-0
           .tarjeta--boton.bg-color-8.p-4.hcard-2
@@ -528,7 +528,7 @@
               p.mb-0 #[b Figura 28.] Desarrollo de patrón de cuello camisero
           figure.mb-0
               img(src='@/assets/curso/temas/t1/41.svg', alt='Despiece del cuello y pie de cuello para camisa talla M/36, con líneas de corte, doblez y piquetes señalados.')
-              figcaption.mb-0 Fuente: SENA, (2019).
+              figcaption.mb-0 Fuente: SENA, (2019)
         .col-sm-12.col-lg-5.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/40.png', alt='')
 

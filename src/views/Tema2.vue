@@ -17,8 +17,8 @@
       .titulo-sexto.color-primario(data-aos='fade-right')
           p.mb-0 #[b Figura 29.] Pantalón clásico
       figure.mb-5(data-aos='fade-right')
-          img(src='@/assets/curso/temas/t2/2.svg', alt='Vista técnica y en 3D de un pantalón formal gris para hombre desde diferentes ángulos.')
-          figcaption.mb-0 Fuente: SENA, (2019).
+          img(src='@/assets/curso/temas/t2/2.svg', alt='Ilustración de pantalón masculino: vista frontal, trasera y diseño técnico.')
+          figcaption.mb-0 Fuente: SENA, (2019)
       .bg-full-width.bg-color-10.mb-5(data-aos='fade-right')
         .p-full-width-1
           .row.justify-content-center.mb-0.align-items-center
@@ -59,7 +59,7 @@
           .titulo-sexto.color-primario
               p.mb-0 #[b Tabla 2.] Medidas para desarrollo de pantalón T M / 38
           .tabla-a.table-wcus-2.color-primario.mb-5 
-            table.w-50(alt='')
+            table.w-50(alt='Tabla con medidas base para trazar pantalón masculino T M / 38: cintura, cadera, largo, tiro y bota.')
               caption Fuente: SENA, (2019)
               thead
                 tr
@@ -72,13 +72,13 @@
                   td Contorno de cintura
                   td 81 cm
                   td 1/4
-                  td 1/4
+                  td 20.25 cm
 
                 tr
                   td Contorno de cadera
                   td 96.5 cm
                   td 1/4
-                  td 1/4
+                  td 24.12 cm
 
                 tr
                   td Largo de pantalón
@@ -125,7 +125,7 @@
                       p.mb-0 #[b Figura 30.] Trazo delantero de pantalón
                   figure.mb-0
                       img(src='@/assets/curso/temas/t2/5.svg', alt='Rectángulo de 24 cm de ancho por 26 cm de alto, base para el trazo del pantalón.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
@@ -135,7 +135,7 @@
                       p.mb-0 #[b Figura 31.] Líneas base para trazo del pantalón
                   figure.mb-0
                       img(src='@/assets/curso/temas/t2/6.svg', alt='Rectángulo con líneas guía para cintura, cadera y tiro, con altura de cadera.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
@@ -145,7 +145,7 @@
                       p.mb-0 #[b Figura 32.] Fórmula profundidad de tiro
                   figure.mb-0
                       img(src='@/assets/curso/temas/t2/7.svg', alt='Fórmula para el tiro del pantalón.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
 
               .row.justify-content-start.mb-0.align-items-start
@@ -158,7 +158,7 @@
                       p.mb-0 #[b Figura 33.] Curva de tiro
                   figure.mb-0
                       img(src='@/assets/curso/temas/t2/8.svg', alt='Guía en ángulo de 45° y 2.5 cm para trazar la curva del tiro del pantalón delantero.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
@@ -169,7 +169,7 @@
                       p.mb-0 #[b Figura 34.] Trazado de cintura y costado del delantero
                   figure.mb-0
                       img(src='@/assets/curso/temas/t2/9.svg', alt='Dibujo técnico que ilustra el trazado de la curva de cintura y costado del pantalón delantero.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
 
               .row.justify-content-start.mb-0.align-items-start
@@ -182,19 +182,18 @@
                       p.mb-0 #[b Figura 35.]  Distribución de líneas guía en el pantalón delantero
                   figure.mb-0
                       img(src='@/assets/curso/temas/t2/10.svg', alt='Diagrama con líneas guía del pantalón masculino delantero, mostrando altura de tiro, rodilla y bota con medidas de 12 cm a cada lado y 5 cm de subida en la rodilla.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
 
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
-                    p.mb-3 #[b f)] Desde el ángulo formado por el centro frente y la línea de cintura, ingresar 0.5 cm hacia la izquierda y unir ese punto con el costado mediante una línea recta. Luego, desde el nuevo punto del centro frente sobre la línea de cintura, marcar la medida correspondiente a la cuarta parte del contorno de cintura (20.25 cm) y elevar 0.5 cm.
-                    p.mb-0 #[b g)] Unir este punto con la intersección de la altura de cadera y el costado mediante una curva suave, como se ilustra en la figura siguiente.
+                   p.mb-0 #[b k)]	Por último, unir en curva suave la entrepierna y el costado y en línea recta los dos lados de la bota. 
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 36.] Molde delantero pantalón masculino
                   figure.mb-0
                       img(src='@/assets/curso/temas/t2/11.svg', alt='Molde del delantero del pantalón masculino.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
 
 
@@ -223,7 +222,7 @@
                       p.mb-0 #[b Figura 37.]  Ajuste de bota y rodilla en posterior
                   figure.mb-0
                       img(src='@/assets/curso/temas/t2/13.svg', alt='Ilustración del ensanche de 1 a 2 cm en bota y rodilla para el patrón posterior del pantalón.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
@@ -235,7 +234,7 @@
                       p.mb-0 #[b Figura 38.] Ajuste superior del trazo posterior
                   figure.mb-0
                       img(src='@/assets/curso/temas/t2/14.svg', alt='Diagrama que ilustra el ajuste del trazo posterior del pantalón.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
@@ -246,7 +245,7 @@
                       p.mb-0 #[b Figura 39.] Curvas y ajustes del trazo posterior
                   figure.mb-0
                       img(src='@/assets/curso/temas/t2/15.svg', alt='Figura del trazo posterior del pantalón con ajustes en la curva de tiro, línea de cintura y costado, y aumento.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
@@ -257,7 +256,7 @@
                       p.mb-0 #[b Figura 40.] Curva del tiro posterior
                   figure.mb-0
                       img(src='@/assets/curso/temas/t2/16.svg', alt='La curva del tiro posterior se traza tangente a la línea de tiro y roza ligeramente la curva del tiro delantero.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
@@ -267,7 +266,7 @@
                       p.mb-0 #[b Figura 41.] Marcación de pinza posterior
                   figure.mb-0
                       img(src='@/assets/curso/temas/t2/17.svg', alt='Pinza de 2 cm de ancho y 12 cm de largo centrada en la línea de cintura del posterior.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
 
       Separador
@@ -283,8 +282,8 @@
       .titulo-sexto.color-primario(data-aos='fade-right')
           p.mb-0 #[b Figura 42.] Marcación de pinza posterior
       figure.mb-5(data-aos='fade-right')
-          img(src='@/assets/curso/temas/t2/12.svg', alt='')
-          figcaption.mb-0 Fuente: SENA, (2019).    
+          img(src='@/assets/curso/temas/t2/12.svg', alt='Pinza de 2 cm de ancho y 12 cm de largo centrada en la línea de cintura del posterior.')
+          figcaption.mb-0 Fuente: SENA, (2019)    
       .row.justify-content-center.mb-0(data-aos='fade-right')
         .col-sm-12.col-lg-6
           ol.lista-ol--cuadro

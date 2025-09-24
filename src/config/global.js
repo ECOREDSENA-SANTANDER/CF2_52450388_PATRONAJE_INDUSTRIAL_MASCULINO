@@ -89,7 +89,7 @@ export default {
         ],
       },
       {
-        nombreRuta: 'tema5',
+        nombreRuta: 'tema4',
         numero: '4',
         titulo: 'Ajuste y corrección de moldes en prendas masculinas',
         desarrolloContenidos: true,
@@ -244,11 +244,6 @@ export default {
     },
     {
       referencia:
-        'QRCode-Generator. (2019). Cree su código QR gratis. Recuperado de',
-      link: 'https://es.qr-code-generator.com/',
-    },
-    {
-      referencia:
         'Camps, J. (1995). Manual Técnico de Patronaje Industrial Ropa Masculina. Medellín, Colombia: Comité Técnico de Costura 3.',
     },
     {
@@ -276,7 +271,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nohora Amparo',
+          nombre: 'Nohora Amparo Nieto Cárdenas',
           cargo: 'Experta temática',
           centro:
             'Centro de manufactura en textil y cuero  - Regional Distrito Capital',
@@ -298,7 +293,7 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Mancheeego Suarez',
-          cargo: 'Desarrollador <i>full stack</i>',
+          cargo: 'Desarrolladora <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

@@ -10,8 +10,8 @@
       .titulo-sexto.color-primario(data-aos='fade-right')
           p.mb-0 #[b Figura 43.] Chaqueta básica masculina
       figure.mb-5
-          img(src='@/assets/curso/temas/t3/1.svg', alt='Chaqueta básica masculina con cierre frontal, cuello camisero y bolsillos superiores, vista de frente, espalda y perspectiva.')
-          figcaption.mb-0 Fuente: SENA, (2019).
+          img(src='@/assets/curso/temas/t3/1.svg', alt='Diseño técnico y vista final de una chaqueta informal masculina.')
+          figcaption.mb-0 Fuente: SENA, (2019)
 
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos='fade-right')
         .bloque-texto-g__img.d-none.d-lg-block(
@@ -34,20 +34,20 @@
                     p.mb-0 #[b a)] Trazar una línea guía horizontal, ubicar los básicos superiores masculinos haciendo coincidir la línea guía trazada con la línea de altura de sisa, dejando 5 cm para desahogo entre el ángulo sisa / costado del delantero y el ángulo sisa / costado de la espalda. 
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
-                      p.mb-0 #[b Figura 44.]  Ubicación de básicos superiores con desahogo
+                      p.mb-0 #[b Figura 44.] Ubicación de básicos superiores con desahogo
                   figure.mb-0
                       img(src='@/assets/curso/temas/t3/3.svg', alt='Delantero y espalda del básico superior masculino alineados por la sisa, con 5 cm de separación entre ambos.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
                     p.mb-0 #[b b)] Por el centro atrás, prolongar hacia abajo a partir de la cintura, 30 a 35 cm para largo total de chaqueta y escuadrar hacia centro frente. En la mitad de los 5 cm, escuadrar hacia abajo hasta la línea de ruedo. 
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
-                      p.mb-0 #[b Figura 45.] . Ubicación de piezas base en el largo de la chaqueta
+                      p.mb-0 #[b Figura 45.] Ubicación de piezas base en el largo de la chaqueta
                   figure.mb-0
                       img(src='@/assets/curso/temas/t3/4.svg', alt='Distribución del delantero y la espalda sobre el largo total de la chaqueta, con línea de costado centrada y medida de 30 a 35 cm desde la sisa al ruedo.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
@@ -57,7 +57,7 @@
                       p.mb-0 #[b Figura 46.] Modificaciones en escote y hombros 
                   figure.mb-0
                       img(src='@/assets/curso/temas/t3/5.svg', alt='Ajustes en el escote y ampliación de hombros en el patrón delantero y espalda.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
@@ -67,7 +67,7 @@
                       p.mb-0 #[b Figura 47.] Ajuste en escote delantero
                   figure.mb-0
                       img(src='@/assets/curso/temas/t3/6.svg', alt='Reducción de 2 cm en el escote del patrón delantero.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
 
               .row.justify-content-start.mb-0.align-items-start
@@ -100,7 +100,7 @@
           p.mb-0 #[b Figura 48.]  Despiece chaqueta masculina
       figure.mb-5(data-aos='fade-right')
           img.mb-2(src='@/assets/curso/temas/t3/7.svg', alt='Patrones del delantero y espalda de chaqueta básica con márgenes de costura y dobladillo señalados.')
-          figcaption.mb-0 Fuente: SENA, (2019).
+          figcaption.mb-0 Fuente: SENA, (2019)
       
       Separador      
       #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -121,7 +121,7 @@
                       p.mb-0 #[b Figura 49.] Esquema inicial de manga básica
                   figure.mb-0
                       img(src='@/assets/curso/temas/t3/8.svg', alt='Diagrama con línea vertical de 60 cm y línea horizontal a 15 cm desde el vértice superior, indicando curvas para sisa delantera y sisa espalda.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
                     p.mb-3 #[b d)] Tomar la medida de la sisa del delantero, desde el punto A en diagonal a caer sobre la línea de la altura de cabeza de manga hacia el lado izquierdo menos 0.5 cm.
@@ -133,7 +133,7 @@
                       p.mb-0 #[b Figura 50.]  Medidas ajustadas de sisa
                   figure.mb-0
                       img(src='@/assets/curso/temas/t3/9.svg', alt='Líneas diagonales indican sisa delantera y espalda con reducción de 0.5 cm cada una.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
                     p.mb-3 #[b f)] En la diagonal de la sisa del delantero, divídala en dos partes iguales y desplace 1 cm hacia abajo sobre la diagonal. Luego, divida nuevamente los dos tramos resultantes. En la mitad del tramo inferior, escuadre 0.8 cm hacia adentro, y en la mitad del tramo superior, escuadre 1.8 cm hacia afuera.
@@ -143,7 +143,7 @@
                       p.mb-0 #[b Figura 51.]  Curvatura para sisa delantera y espalda
                   figure.mb-0
                       img(src='@/assets/curso/temas/t3/10.svg', alt='Trazado de curvas en la diagonal de la manga con medidas específicas para sisa delantera y espalda.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
                     p.mb-0 #[b h)] Realizar la unión en curva en dos tiempos, siguiendo los puntos de referencia indicados: 
@@ -152,7 +152,7 @@
                       p.mb-0 #[b Figura 52.]  Curva final de copa de manga
                   figure.mb-0
                       img(src='@/assets/curso/temas/t3/11.svg', alt='Trazado completo de la curva superior de la manga con medidas precisas.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
                     p.mb-3 #[b i)] Escuadrar los costados de la manga hasta el ruedo, cerrando así el rectángulo. Ubicar el punto medio de la línea del ruedo y, desde ese centro, marcar 12 cm hacia cada lado para definir el ancho del puño.
@@ -162,7 +162,7 @@
                       p.mb-0 #[b Figura 53.]  Trazado final de manga básica
                   figure.mb-0
                       img(src='@/assets/curso/temas/t3/12.svg', alt='Diagrama del trazado completo de una manga básica con curvas, centro, puño y altura del codo señalados.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
                     p.mb-0 #[b k)] Trazar una línea para el corte vertical de la parte posterior de la manga, iniciando 10 cm por encima de la curva de la sisa de la espalda, desde el costado hasta el centro del puño posterior. Sobre esta línea de corte, subir 16 cm para definir la extensión de la abertura.
@@ -171,7 +171,7 @@
                       p.mb-0 #[b Figura 54.] Trazado final de manga básica  
                   figure.mb-0
                       img(src='@/assets/curso/temas/t3/13.svg', alt='Diagrama que ilustra la línea de corte vertical en la parte posterior de la manga, con una abertura de 16 cm iniciando a 8 cm de la curva de sisa espalda.')
-                      figcaption.mb-0 Fuente: SENA, (2019).
+                      figcaption.mb-0 Fuente: SENA, (2019)
 
   </template>
 
