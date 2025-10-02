@@ -80,7 +80,7 @@
                 li.d-flex.mb-4
                   .lista-ol--cuadro__vineta.bg-color-1
                     span.text-color-sistema.fw-bold 2
-                  | Traslado de pinzas, especialmente en camisas entalladas o chaquetas slim fit.
+                  | Traslado de pinzas, especialmente en camisas entalladas o chaquetas #[i slim fit].
                 li.d-flex.mb-4
                   .lista-ol--cuadro__vineta.bg-color-1
                     span.text-color-sistema.fw-bold 3
