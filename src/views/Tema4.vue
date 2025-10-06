@@ -9,7 +9,11 @@
       
       p.mb-5 El ajuste de moldes en prendas masculinas es un paso esencial en la confección, ya que garantiza que la prenda se adapte correctamente al cuerpo del hombre, respetando sus proporciones anatómicas y cumpliendo con estándares de comodidad, funcionalidad y estética.  
       
-      
+      .row.align-items-center.mb-5.titulo-icono
+        .col-auto.titulo-icono-img
+          img(src='@/assets/curso/temas/bg/2.svg', alt='')
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Aspectos clave a revisar en prendas masculinas
 
       .bg-full-width.bg-color-10.mb-5
         .p-full-width
@@ -80,7 +84,8 @@
                 li.d-flex.mb-4
                   .lista-ol--cuadro__vineta.bg-color-1
                     span.text-color-sistema.fw-bold 2
-                  | Traslado de pinzas, especialmente en camisas entalladas o chaquetas #[i slim fit].
+                  | Traslado de pinzas, especialmente en camisas entalladas o chaquetas &nbsp;  
+                  | #[i slim fit].
                 li.d-flex.mb-4
                   .lista-ol--cuadro__vineta.bg-color-1
                     span.text-color-sistema.fw-bold 3
