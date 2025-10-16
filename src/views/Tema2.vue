@@ -176,7 +176,7 @@
                 .col-sm-12.col-lg-6.pcus-1
                     p.mb-3 #[b h)] La línea de aplome se ubica en la mitad de la línea de tiro, incluyendo la medida de la profundidad de tiro y se escuadra hacia arriba hasta tocar la cintura y luego hacia abajo, completando el largo total del pantalón (80 cm).
                     p.mb-3 #[b i)] Ubicar la línea de rodilla, en la mitad entre la altura de tiro y la bota. Luego subir 5 cm sobre la línea, para ubicar la línea de rodilla.
-                    p.mb-0 #[b j)] En la bota, escuadrar hacia cada lado 11 cm para el ancho de la bota y en la línea de rodilla escuadrar 12 cm para el ancho de rodilla:  
+                    p.mb-0 #[b j)] En la bota, escuadrar hacia cada lado 11 cm para el ancho de la bota y en la línea de rodilla escuadrar 12 cm para el ancho de rodilla.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 35.]  Distribución de líneas guía en el pantalón delantero
@@ -249,7 +249,7 @@
 
               .row.justify-content-start.mb-0.align-items-start
                 .col-sm-12.col-lg-6.pcus-1
-                    p.mb-3 #[b  g)] Prolongar en la línea de tiro la misma medida que el tiro del delantero menos 1.5 cm (4.5 -1.5 = 3.5 cm). 
+                    p.mb-3 #[b  g)] Prolongar en la línea de tiro la misma medida que el tiro del delantero menos 1.5 cm (4.5 - 1.5 = 3.5 cm). 
                     p.mb-0 #[b  h)] Bajar 0.5 cm desde el punto extendido para formar la línea de la entrepierna del posterior y la curva del tiro posterior.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario

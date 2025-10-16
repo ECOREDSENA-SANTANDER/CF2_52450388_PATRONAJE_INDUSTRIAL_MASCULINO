@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Diseño y elaboración de patrones básicos de ropa masculina.',
+    Name: 'Diseño y elaboración de patrones básicos de ropa masculina',
     Description:
       'La elaboración de patrones básicos de ropa masculina implica el desarrollo técnico de prendas como la camisa, el pantalón y la chaqueta, a partir del patrón base superior. El proceso incluye la identificación de medidas, el trazado de moldes, y el diseño de despieces, mangas, cuellos, puños y costuras, integrando criterios de industrialización para su aplicación en la confección. Se abordan los pasos específicos para cada prenda, considerando tanto los aspectos funcionales como los acabados técnicos, con el fin de garantizar precisión, ajuste y calidad en la producción de vestuario masculino.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -143,7 +143,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Básico superior masculino.',
+      tema: 'Básico superior masculino',
       referencia:
         'Ecosistema de Recursos Educativos. (2019, 12 agosto). Patronaje Industrial Masculino. Patrón básico superior masculino.',
       tipo: 'Video',
@@ -238,12 +238,6 @@ export default {
   referencias: [
     {
       referencia:
-        'Carrera de Diseño y Gestión de Moda. (2015). Técnicas de patronaje. Tomo II – Hombre. Recuperado de',
-      link:
-        'https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/detail.action?docID=4184904',
-    },
-    {
-      referencia:
         'Camps, J. (1995). Manual Técnico de Patronaje Industrial Ropa Masculina. Medellín, Colombia: Comité Técnico de Costura 3.',
     },
     {
@@ -274,7 +268,7 @@ export default {
           nombre: 'Nohora Amparo Nieto Cárdenas',
           cargo: 'Experta temática',
           centro:
-            'Centro de manufactura en textil y cuero  - Regional Distrito Capital',
+            'Centro de Manufactura en Textil y Cuero  - Regional Distrito Capital',
         },
         {
           nombre: 'Laura Paola Gelvez Manosalva',
@@ -292,7 +286,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Lizeth Karina Mancheeego Suarez',
+          nombre: 'Lizeth Karina Manchego Suarez',
           cargo: 'Desarrolladora <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -307,13 +301,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Erika Daniela Manrique Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Andrea Ardila Chaparro',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

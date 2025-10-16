@@ -19,7 +19,7 @@
         )
         .bloque-texto-g__texto.p-4.d-flex.flex-column
           p.mb-3 El patrón de chaqueta es un molde básico que permite desarrollar diversos modelos de chaquetas informales no estructuradas. Cuenta con los desahogos necesarios para ser usado como prenda sobrepuesta, lo que lo hace versátil y adaptable a diferentes diseños.
-          p.mb-0 Para la elaboración de los patrones, es fundamental contar con los elementos necesarios para el trazo: reglas de patronaje, papel trazo o papel bond, lápiz, borrador, tijeras, cinta métrica y, además, tener listo el básico superior masculino. 
+          p.mb-0 Para la elaboración de los patrones, es fundamental contar con los elementos necesarios para el trazo: reglas de patronaje, papel trazo o papel #[i bond], lápiz, borrador, tijeras, cinta métrica y, además, tener listo el básico superior masculino. 
       
       Separador
       #t_3_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -56,7 +56,7 @@
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 46.] Modificaciones en escote y hombros 
                   figure.mb-0
-                      img(src='@/assets/curso/temas/t3/5.svg', alt='Ajustes en el escote y ampliación de hombros en el patrón delantero y espalda.')
+                      img(src='@/assets/curso/temas/t3/14.svg', alt='Ajustes en el escote y ampliación de hombros en el patrón delantero y espalda.')
                       figcaption.mb-0 Fuente: SENA, (2019)
 
               .row.justify-content-start.mb-0.align-items-start
@@ -87,7 +87,7 @@
               figure
                 img(src='@/assets/curso/temas/t1/24.svg')
           h2.text-center Delantero
-          p.mb-0 Se traza por el cuello, hombro, sisa, costado, ruedo y centro frente. Se aplican costuras de 1,5 cm en el centro frente (para la cremallera), 1 cm en hombro, sisa y costado, y 3 cm en el ruedo para el dobladillo. El hilo de tela debe ir paralelo al centro frente.
+          p.mb-0 Se traza por el cuello, hombro, sisa, costado, ruedo y centro frente. Se aplican costuras de 1.5 cm en el centro frente (para la cremallera), 1 cm en hombro, sisa y costado, y 3 cm en el ruedo para el dobladillo. El hilo de tela debe ir paralelo al centro frente.
         .col-sm-12.col-md-6.col-lg-6.tarjeta.bg-color-8.p-5.mb-cus
           .row.justify-content-center.mb-4
             .col-3

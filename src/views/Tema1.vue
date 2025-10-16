@@ -346,7 +346,7 @@
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Manga camisera y puño 
       p.mb-3(data-aos='fade-right') Para elaborar la manga de la camisa, se deben tomar las medidas del contorno de la sisa del delantero y de la espalda por separado, ubicando la cinta métrica por la parte interna de la curva y verificando varias veces la medida.
-      p.mb-5(data-aos='fade-right') Para trazar el patrón, sigue estos pasos:
+      p.mb-5(data-aos='fade-right') Para trazar el patrón, se deben seguir los siguientes pasos:
 
       .bg-full-width.bg-fondo-2.mb-5(data-aos='fade-right')
         .p-full-width
@@ -354,13 +354,8 @@
             PasosB.color-acento-contenido
               .row.justify-content-center.mb-0.ml-cus-2.align-items-center(titulo='Paso 1')
                 .col-sm-12.col-lg-7.mb-cus
-                  ul.lista-ul--color.mb-0.color-primario
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0 Traza una línea vertical con la medida del largo de la manga (por ejemplo, talla 10: 60 cm). Sobre esta línea, marca 15 cm desde el extremo superior (altura de cabeza de manga) y escuadra hacia ambos lados prolongando la línea. 
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0 En el lado izquierdo se trazará el contorno correspondiente al delantero, y en el derecho, el de la espalda.
+                  p.mb-0 Se traza una línea vertical con la medida del largo de la manga (por ejemplo, talla 10: 60 cm). Sobre esta línea se marcan 15 cm desde el extremo superior (altura de cabeza de manga) y, a partir de ese punto, se dibuja una línea horizontal que forme un ángulo recto con la línea vertical, extendiéndola hacia ambos lados. En el lado izquierdo se representa el contorno correspondiente al delantero y en el derecho, el de la espalda.
+
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 20.] Trazo base para manga
@@ -370,13 +365,7 @@
 
               .row.justify-content-center.mb-0.ml-cus-2.align-items-center(titulo='Paso 2')
                 .col-sm-12.col-lg-7.mb-cus
-                  ul.lista-ul--color.mb-0.color-primario
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0  Se toma la medida de la sisa del delantero y se traza una línea diagonal desde el punto A hasta caer sobre la línea de altura de cabeza de manga, hacia el lado izquierdo, restando 0.5 cm. Nota: La longitud de esta línea diagonal debe corresponder a la medida de la sisa del delantero.
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0 Se repite el mismo procedimiento hacia el lado derecho, utilizando la medida de la sisa de la espalda.
+                  p.mb-0 Se toma la medida de la sisa del delantero y se traza una línea diagonal desde el punto A hasta caer sobre la línea de altura de cabeza de manga, hacia el lado izquierdo, restando 0.5 cm. Nota: la longitud de esta línea diagonal debe corresponder a la medida de la sisa del delantero. Se repite el mismo procedimiento hacia el lado derecho, utilizando la medida de la sisa de la espalda.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 21.] Trazado de sisas para manga
@@ -387,16 +376,7 @@
 
               .row.justify-content-center.mb-0.ml-cus-2.align-items-center(titulo='Paso 3')
                 .col-sm-12.col-lg-7.mb-cus
-                  ul.lista-ul--color.mb-0.color-primario
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0  La diagonal correspondiente a la sisa delantera se divide en dos partes iguales. Desde el punto medio, se baja 1 cm sobre la diagonal. Luego, cada tramo resultante se divide nuevamente por la mitad. 
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0 En la mitad inferior, se escuadra 0.8 cm hacia adentro, y en la mitad superior, se escuadra 1.8 cm hacia afuera. La diagonal de la sisa de la espalda se divide en tres partes iguales. 
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0 En la primera división, se escuadra 1.8 cm hacia afuera; y en la mitad del tramo inferior, se escuadra 0.5 cm hacia adentro.
+                  p.mb-0 La diagonal correspondiente a la sisa delantera se divide en dos partes iguales. Desde el punto medio, se baja 1 cm sobre la diagonal. Luego, cada tramo resultante se divide nuevamente por la mitad. En la mitad inferior, se escuadra 0.8 cm hacia adentro, y en la mitad superior, se escuadra 1.8 cm hacia afuera. La diagonal de la sisa de la espalda se divide en tres partes iguales. En la primera división, se escuadra 1.8 cm hacia afuera; y en la mitad del tramo inferior, se escuadra 0.5 cm hacia adentro.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 22.] Curvatura superior de la manga
@@ -407,10 +387,7 @@
 
               .row.justify-content-center.mb-0.ml-cus-2.align-items-center(titulo='Paso 4')
                 .col-sm-12.col-lg-7.mb-cus
-                   ul.lista-ul--color.mb-0.color-primario
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0  Unir en curva en dos tiempos, pasando por los puntos marcados de la siguiente forma: 
+                   p.mb-0 Unir en curva en dos tiempos, pasando por los puntos marcados de la siguiente forma:
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 23.] Curva final de la copa de manga
@@ -421,16 +398,7 @@
 
               .row.justify-content-center.mb-0.ml-cus-2.align-items-center(titulo='Paso 5')
                 .col-sm-12.col-lg-7.mb-cus
-                  ul.lista-ul--color.mb-0.color-primario
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0  Escuadrar los costados de la manga hasta el ruedo para cerrar el rectángulo. Ubicar la mitad de la línea del ruedo y, desde ese punto central, marcar hacia cada lado el ancho del puño (12 cm). 
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0 Para determinar la altura del codo, se mide la mitad entre la línea base de la cabeza de la manga y la línea de ruedo; desde allí, se suben 3 cm y se escuadra hacia ambos lados. 
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0 Finalmente, unir en línea recta los costados de la manga.
+                  p.mb-0 Escuadrar los costados de la manga hasta el ruedo para cerrar el rectángulo. Ubicar la mitad de la línea del ruedo y, desde ese punto central, marcar hacia cada lado el ancho del puño (12 cm). Para determinar la altura del codo, se mide la mitad entre la línea base de la cabeza de la manga y la línea de ruedo; desde allí, se suben 3 cm y se escuadra hacia ambos lados. Finalmente, unir en línea recta los costados de la manga.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 24.] Trazado final de la manga
@@ -441,13 +409,7 @@
 
               .row.justify-content-center.mb-0.ml-cus-2.align-items-center(titulo='Paso 6')
                 .col-sm-12.col-lg-7.mb-cus
-                  ul.lista-ul--color.mb-0.color-primario
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0  Trazar una línea paralela a 8 cm por encima del ruedo, correspondiente al ancho del puño. Añadir 1.5 cm en uno de los costados para el cruce. 
-                    li.d-flex
-                      i.fas.fa-shirt.icon-list
-                      p.mb-0 En la mitad del ruedo del lado correspondiente a la espalda, marcar una línea perpendicular de 8 cm de largo para ubicar la portañuela.
+                  p.mb-0 Trazar una línea paralela a 8 cm por encima del ruedo, correspondiente al ancho del puño. Añadir 1.5 cm en uno de los costados para el cruce. En la mitad del ruedo del lado correspondiente a la espalda, marcar una línea perpendicular de 8 cm de largo para ubicar la portañuela.
                 .col-sm-12.col-lg-4
                   .titulo-sexto.color-primario
                       p.mb-0 #[b Figura 25.] Marcación del puño y portañuela
@@ -478,7 +440,7 @@
           .tarjeta-numerada.color-secundario.p-5.hcard-1.hcard-3
             .tarjeta-numerada__numero
               .h2.text-white 3
-            p.mb-0.text-center Para la portañuela de la manga, se debe cortar una pieza de 3,5 cm de ancho por 20 cm de largo.
+            p.mb-0.text-center Para la portañuela de la manga, se debe cortar una pieza de 3.5 cm de ancho por 20 cm de largo.
 
       .titulo-sexto.color-primario(data-aos='fade-right')
           p.mb-0 #[b Figura 26.] Despiece de manga y puño
