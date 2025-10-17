@@ -38,5 +38,9 @@
     <path id="Trazado_895725" data-name="Trazado 895725" d="M-6734.824,529" transform="translate(7700.518 9245.793)" fill="none" stroke="#12263f" stroke-width="1" stroke-dasharray="3 3"/>
     <path id="Trazado_896722" data-name="Trazado 896722" d="M1140.725,11898.012l-9.487,231.951" transform="translate(-82.822 -2361.207)" fill="none" stroke="#727aa6" stroke-width="2"/>
     <path id="Trazado_896725" data-name="Trazado 896725" d="M1135.468,12069.784h-5.408" transform="translate(-82.308 -2353.207)" fill="none" stroke="#727aa6" stroke-width="2"/>
+    <path id="Trazado_896723" data-name="Trazado 896723" d="M5113.354-1838.7s13.971,12.1,27.681,0" transform="translate(-4092.66 11608)" fill="none" stroke="red" stroke-width="1"/>
+    <path id="Trazado_896724" data-name="Trazado 896724" d="M5113.354-1838.7s14.744,12.1,29.212,0" transform="translate(-4064.979 11608)" fill="none" stroke="red" stroke-width="1"/>
+    <path id="Trazado_896726" data-name="Trazado 896726" d="M5184.381-2044.767s-10.648-3.143-15.348-8.516-7.791-11.832-13.148-17.382" transform="translate(-4092.66 11608)" fill="none" stroke="red" stroke-width="1"/>
+    <path id="Trazado_896807" data-name="Trazado 896807" d="M2.264,0,4.529,3.071H0Z" transform="translate(1059.657 9536.955) rotate(-45)" fill="red"/>
   </g>
 </svg>
