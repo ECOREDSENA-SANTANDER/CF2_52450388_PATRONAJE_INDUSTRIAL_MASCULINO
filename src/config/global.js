@@ -149,14 +149,6 @@ export default {
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=fx7tmoiqPfI',
     },
-    {
-      tema: 'Elaboración de patronaje masculino',
-      referencia:
-        'Carrera de Diseño y Gestión de Moda. (2015). Técnicas de patronaje. Tomo II: Hombre. Universidad Peruana de Ciencias Aplicadas (UPC). ProQuest Ebook Central.',
-      tipo: 'Documento',
-      descarga:
-        'downloads/MC_AA2_Los_inicios_proceso_historico_evolucion_vestimenta_hombres.pdf',
-    },
   ],
   glosario: [
     {
